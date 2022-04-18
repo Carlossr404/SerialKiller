@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.serialkillerescape.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\Rhodes_VR\\Desktop\\Carlos\\Serial Killer Escape\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\Rhodes_VR\\Desktop\\Carlos\\SerialKiller\\Serial Killer Escape\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Serial Killer Escape [Testing]"
