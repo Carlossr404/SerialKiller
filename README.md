@@ -14,7 +14,7 @@ In Serial Killer, our team:
 - Utilized the HTC Vive PRO to provide an unteathered VR experience 
 
   
-#  GAME SUMMARY
+##  GAME SUMMARY
 
   In this new and original game, the player (you 🫵), is transported to a whole new world (a dusty bunker)
   throught the magic of motion capture technology and the HTC Vive PRO. However, you are not alone! You've
